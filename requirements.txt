@@ -2,7 +2,6 @@ sklearn
 numpy
 pandas
 streamlit
-pickle
 base64
 csv
 plotly.express
