@@ -1,0 +1,10 @@
+sklearn
+numpy
+pandas
+streamlit
+seaborn
+matplotlib
+pickle
+base64
+csv
+plotly.express
