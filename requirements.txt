@@ -2,7 +2,6 @@ sklearn
 numpy
 pandas
 streamlit
-seaborn
 pickle
 base64
 csv
