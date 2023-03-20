@@ -4,3 +4,4 @@ pandas
 streamlit
 plotly
 seaborn
+imbalanced-learn
